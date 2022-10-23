@@ -1995,6 +1995,11 @@ input, select, textarea {
 				font-size: 1em;
 			}
 
+				.item p {
+					margin-left: 1rem;
+					margin-right: 1rem;
+				}
+
 /* Icons */
 
 	.icon {
